@@ -46,7 +46,7 @@
     "graphql-tag": "^2.10.3",
     "jimp": "^0.16.1",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.10.0",
     "nuxt": "^2.5.1",
     "nuxt-compress": "^4.1.0",
